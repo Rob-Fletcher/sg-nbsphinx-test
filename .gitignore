@@ -1,0 +1,4 @@
+*.pyc
+build/
+*sg_execution_times*
+auto_examples/

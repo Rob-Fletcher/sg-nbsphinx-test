@@ -1,0 +1,7 @@
+sphinx
+sphinx-gallery
+nbsphinx
+pydata-sphinx-theme
+matplotlib
+ipyleaflet
+jupyterlab
