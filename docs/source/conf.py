@@ -37,7 +37,8 @@ extensions = [
     "sphinx.ext.viewcode",
     "sphinx.ext.mathjax",
     "sphinx_gallery.gen_gallery",
-    # "nbsphinx",
+    ## Comment out the following line to test the nbsphinx extension
+    "nbsphinx",
 ]
 
 # build the templated autosummary files
